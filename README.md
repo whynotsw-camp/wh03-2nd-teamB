@@ -49,7 +49,8 @@
     - 오류 수정 및 기능 개선
     - 사용자 피드백 지속 반영
 ### 시각 자료
-![image.png](attachment:3630afff-b2ff-40eb-850c-5ed643b145fe:image.png)
+![WBS](https://github.com/user-attachments/assets/9d721e43-ff51-448a-b394-430775a931ce)
+
 
 ---------------------------
 
@@ -110,7 +111,7 @@
 - Google Tran
 
 ## 3. 설계 이미지
-![K-042.png](attachment:c75f6e64-2d27-4728-96d3-94dfd57c2ebe:K-042.png)
+![K-042](https://github.com/user-attachments/assets/f8817353-688c-4a89-a807-4c5db5f615f7)
 
 ---------------------------
 
@@ -164,12 +165,19 @@
 # 시각화 리포트
 
 ## 1. 분석 결과 요약
+![FLOW](https://github.com/user-attachments/assets/e864d944-868f-4055-a916-cdd47243d62e)
+- **콘텐츠 수집**: VOD 및 방송 데이터 수집
+- **AI 분석**: 영상, 오디오, 텍스트 분석을 통해 주요 장면 및 키워드 추출
+- **숏폼 비디오 제작**: AI가 주요 장면을 편집하여 숏폼 콘텐츠 생성
+- **사용자 데이터 수집**: 사용자 시청 기록, 선호도, 피드백 수집
+- **개인화 엔진**: 사용자 맞춤형 숏폼 콘텐츠 추천
+- **사용자 피드백**: 사용자 상호작용 및 평가를 통한 지속적인 개선
 
 
 ## 2. 대시보드
-![image.png](attachment:84555e9b-b6f1-4062-a180-7047d9e9aa55:image.png)
+![DASHBOARD](https://github.com/user-attachments/assets/050f4433-b356-4520-873a-83c881c3058c)
+![DASHBOARD2](https://github.com/user-attachments/assets/a1752474-0e2c-4c60-8fd4-212e0ed8cdad)
 
-![image.png](attachment:71dcc144-a87a-4036-9e9a-fbd0d0ee93b6:image.png)
 
 ## 3. 제안
 - 데이터를 기반으로 [구체적인 제안 내용]
