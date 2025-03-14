@@ -5,6 +5,7 @@
 ![DASHBOARD2](https://github.com/user-attachments/assets/a1752474-0e2c-4c60-8fd4-212e0ed8cdad)
 
 ## 1. 프로젝트 정의
+- **프로젝트명**: Short U
 - **목표**: IPTV 콘텐츠 큐레이션 AI기반 구독형 개인화 숏폼 제작 서비스
   - **서비스 확장**: 기존 IPTV에서 제공하는 영화, 드라마, 예능, 스포츠 등과 숏폼 콘텐츠를 결합하여 새로운 서비스를 제공
   - **숏폼 콘텐츠**: 15초에서 3분 내외의 짧은 영상으로, 최근 모바일 중심의 소비에서 IPTV 등 대형 스크린으로 확장되고 있음
@@ -78,7 +79,7 @@
     - 모니터링 및 로그 분석
     - 오류 수정 및 기능 개선
     - 사용자 피드백 지속 반영
-### 시각 자료
+
 ![WBS](https://github.com/user-attachments/assets/9d721e43-ff51-448a-b394-430775a931ce)
 
 ---------------------------
@@ -119,7 +120,7 @@
 - **설계 개요**:
   - 데이터 수집: Open API, Open Dataset, Crawling
   - 데이터 저장: PostgreSQL, AWS S3 (Cloud Storage)
-  - 분석 및 시각화: Tableau, Power BI, Python 라이브러리, D3.js
+  - 분석 및 시각화: Tableau, Power BI, Python, D3.js
 
 ## 2. 기술 스택
 **Frontend**
